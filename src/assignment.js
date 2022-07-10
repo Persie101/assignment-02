@@ -68,9 +68,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
         FahrenheitValues.push(truncatedFahrenheitNumber);  
     }
     
-    return FahrenheitValues
-
-
+    return FahrenheitValues;
     return arrayOfNumbers;
 }
 assignment.celsiusToFahrenheit = celsiusToFahrenheit;
